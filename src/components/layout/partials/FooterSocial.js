@@ -36,7 +36,7 @@ const FooterSocial = ({ className, ...props }) => {
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/i_m_glee">
+          <a href="https://www.linkedin.com/in/manikrithu/">
             <i class="fa-brands fa-linkedin-in" style={{ color: "#66f", fontSize: "18px" }} />
           </a>
         </li>
